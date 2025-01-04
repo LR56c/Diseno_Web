@@ -5,10 +5,11 @@ body {
 	box-sizing: border-box;
 }
 .nav {
+	background: #f28ab2;
 	display: flex;
 	justify-content: space-between;
 	padding: 16px 80px;
-	background-color: #fff;
+	background-color: #ffb19a;
 }
 .logo {
 	display: flex;
@@ -33,9 +34,6 @@ body {
 	padding: 8px;
 	color: #000;
 	transition: color 0.3s;
-}
-.nav-link:hover {
-	color: #f28ab2;
 }
 .carousel {
 	display: flex;

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f512f85-fd2f-4ffe-b183-a5eebb9dd3df" name="Changes" comment="Adjust btn &amp; nav style" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LR56c&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LR56c/Diseno_Web.git&quot;,
+    &quot;accountId&quot;: &quot;ff9ce28a-444a-454c-bce6-1b2d475bfcbd&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qcVrTfmrROYrSi7Dzuj5a1Mrtv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "<unknown>",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/dev/Iplacex/Diseno_Web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\Iplacex\Diseno_Web" />
+      <recent name="D:\dev\Iplacex\Diseno_Web\img" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.120" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f512f85-fd2f-4ffe-b183-a5eebb9dd3df" name="Changes" comment="" />
+      <created>1734962048402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734962048402</updated>
+      <workItem from="1734962057598" duration="3561000" />
+      <workItem from="1735937036223" duration="3894000" />
+      <workItem from="1736018344701" duration="3804000" />
+      <workItem from="1736023163663" duration="1236000" />
+      <workItem from="1736087309577" duration="1900000" />
+      <workItem from="1737295677940" duration="1828000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1734964974345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734964974345</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add a link &amp; seo metatag">
+      <option name="closed" value="true" />
+      <created>1734965688397</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734965688397</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add style">
+      <option name="closed" value="true" />
+      <created>1735940975148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735940975148</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adjust style with tailwind">
+      <option name="closed" value="true" />
+      <created>1736019295012</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736019295012</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adjust style with css">
+      <option name="closed" value="true" />
+      <created>1736022189555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736022189555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adjust contact &amp; nav style">
+      <option name="closed" value="true" />
+      <created>1736027294468</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736027294468</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adjust btn &amp; nav style">
+      <option name="closed" value="true" />
+      <created>1736089972131</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736089972131</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Add a link &amp; seo metatag" />
+    <MESSAGE value="Add style" />
+    <MESSAGE value="Adjust style with tailwind" />
+    <MESSAGE value="Adjust style with css" />
+    <MESSAGE value="Adjust contact &amp; nav style" />
+    <MESSAGE value="Adjust btn &amp; nav style" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust btn &amp; nav style" />
+  </component>
+</project>
